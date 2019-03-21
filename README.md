@@ -2,14 +2,29 @@
 Preparing for the exam
 
 ## Gradient descent
+![](https://cdn-images-1.medium.com/max/1600/1*f9a162GhpMbiTVTAua_lLQ.png)
 ### Definitions
+Gradient Descent requires a cost function(there are many types of cost functions). We need this cost function because we want to minimize it. Minimizing any function means finding the deepest valley in that function. Keep in mind that, the cost function is used to monitor the error in predictions of an ML model. So minimizing this, basically means getting to the lowest error value possible or increasing the accuracy of the model. In short, We increase the accuracy by iterating over a training data set while tweaking the parameters(the weights and biases) of our model.
+#### So, the whole point of GD is to minimize the cost function.
+
 - Gradient descent computes the direction of steepest descent.
 - Accuracy is a bad loss function in gradient descent, becasue gradient descent makes the gradient zero almost everywhere.
 ### VU material Week 6: 
 - [VU video](https://youtu.be/3K4pNmQbGx8?t=2550)
 
+***
+
+## CycleGANs
+## Definitions
+### VU material Week 10: 
+- [VU video1](https://www.youtube.com/watch?v=6N4zIx0ATME&feature=youtu.be)
+
+### Other videos:
+- [video: Generative Adversarial Networks (GANs) - How and Why They Work](https://youtu.be/ZRgwcMqxhPw)
+- [video: Turning Fortnite into PUBG with Deep Learning (CycleGANs)](https://youtu.be/xkLtgwWxrec)
 
 ***
+
 ## Principal Component Analysis
 ### Definitions
 Principal Component Analysis, or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
@@ -29,17 +44,5 @@ highest.
 
 ***
 
-## CycleGANs
-## Definitions
-### VU material Week 10: 
-- [VU video1](https://www.youtube.com/watch?v=6N4zIx0ATME&feature=youtu.be)
-
-### Other videos:
-- [video: Generative Adversarial Networks (GANs) - How and Why They Work](https://youtu.be/ZRgwcMqxhPw)
-- [video: Turning Fortnite into PUBG with Deep Learning (CycleGANs)](https://youtu.be/xkLtgwWxrec)
-
-
-
-***
 ## Generative VS Discriminative Models
 - [article: “is this animal a lion or an elephant?”](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3)
