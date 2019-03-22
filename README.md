@@ -1,5 +1,7 @@
 # Machine Learning Notes
-Preparing for the exam
+## What is machine learning?
+![](https://railsware.com/blog/wp-content/uploads/2018/09/illustration-2b-1024x728.jpg)
+
 # week 1
 - [VU video](https://youtu.be/3K4pNmQbGx8?t=2550)
 ## Hyperplanes
