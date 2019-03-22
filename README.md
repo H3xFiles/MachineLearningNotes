@@ -1,16 +1,22 @@
 # Machine Learning Notes
 Preparing for the exam
-
+# week 1
+- [VU video](https://youtu.be/3K4pNmQbGx8?t=2550)
+## Hyperplanes
+- dot product 
+- 2d linear function
+## Random Search
+- optimization
+  - if loss(p) < loss(p')
+    - p <- p'
 ## Gradient descent
 ![](https://cdn-images-1.medium.com/max/1600/1*f9a162GhpMbiTVTAua_lLQ.png)
 ### Definitions
 Gradient Descent requires a cost function(there are many types of cost functions). We need this cost function because we want to minimize it. Minimizing any function means finding the deepest valley in that function. Keep in mind that, the cost function is used to monitor the error in predictions of an ML model. So minimizing this, basically means getting to the lowest error value possible or increasing the accuracy of the model. In short, We increase the accuracy by iterating over a training data set while tweaking the parameters(the weights and biases) of our model.
 #### So, the whole point of GD is to minimize the cost function.
-
 - Gradient descent computes the direction of steepest descent.
 - Accuracy is a bad loss function in gradient descent, becasue gradient descent makes the gradient zero almost everywhere.
-### VU material Week 6: 
-- [VU video](https://youtu.be/3K4pNmQbGx8?t=2550)
+
 
 ***
 
