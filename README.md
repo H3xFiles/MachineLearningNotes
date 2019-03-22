@@ -6,9 +6,16 @@ Preparing for the exam
 - dot product 
 - 2d linear function
 ## Random Search
-- optimization
+- optimization random search:
+it test if the next random point is better than the previous one and if yes it switch, from probability q now and then we test if there is another better solution and check if there is a global minimum or we already reach it. 
   - if loss(p) < loss(p')
     - p <- p'
+  - else:
+    - probability q: p <- p'
+- compute only loss function 
+- require many interaction
+- work with trees discrete models
+- can be parallelized 
 ## Gradient descent
 ![](https://cdn-images-1.medium.com/max/1600/1*f9a162GhpMbiTVTAua_lLQ.png)
 ### Definitions
