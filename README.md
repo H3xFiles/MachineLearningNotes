@@ -2,8 +2,7 @@
 ## What is machine learning?
 ![](https://railsware.com/blog/wp-content/uploads/2018/09/illustration-2b-1024x728.jpg)
 
-# 2 Linear Models 1: Hyperplanes, Random Search, Gradient Descent (MLVU2019)
-- [VU video](https://youtu.be/3K4pNmQbGx8?t=2550)
+# [2 Linear Models 1: Hyperplanes, Random Search, Gradient Descent (MLVU2019)](https://youtu.be/3K4pNmQbGx8?t=2550)
 ## Hyperplanes
 - dot product 
 - 2d linear function
@@ -29,7 +28,7 @@ Gradient Descent requires a cost function(there are many types of cost functions
 
 ***
 
-# 4 Methodology 2: Data cleaning, Principal Component Analysis, Eigenfaces (MLVU2019)
+# [4 Methodology 2: Data cleaning, Principal Component Analysis, Eigenfaces (MLVU2019)](https://www.youtube.com/watch?v=H4c4qpHdGq8)
 ## Principal Component Analysis
 ![](http://www.nlpca.org/fig_pca_principal_component_analysis.png)
 ### Definitions
