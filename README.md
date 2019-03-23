@@ -38,17 +38,19 @@ features.
 - PCA finds a change of basis for the data.
 - The first principal component is the direction in which the variance is
 highest.
-### VU material Week 11: 
-- [VU video1](https://youtu.be/L2mJ4o7F434) 
-- [VU video2](https://www.youtube.com/watch?v=H4c4qpHdGq8&feature=youtu.be)
-- [Everything you did and didn't know about PCA](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
 
-### Other videos:
+- [Everything you did and didn't know about PCA](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
 - [article: step-by-step-explanation-of-principal-component-analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
 - [video: Principal Component Analysis (PCA)](https://www.youtube.com/watch?v=g-Hb26agBFg)
 
+## Eigenfaces
 
 
+
+# [5 Probability 1: Entropy, (Naive) Bayes, Cross-entropy loss (MLVU2019)
+](https://www.youtube.com/watch?v=IMwiu64wgCU)
+## Entropy 
+- [A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
 
 
 
