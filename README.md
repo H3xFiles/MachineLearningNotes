@@ -2,7 +2,7 @@
 ## What is machine learning?
 ![](https://railsware.com/blog/wp-content/uploads/2018/09/illustration-2b-1024x728.jpg)
 
-# week 1
+# 2 Linear Models 1: Hyperplanes, Random Search, Gradient Descent (MLVU2019)
 - [VU video](https://youtu.be/3K4pNmQbGx8?t=2550)
 ## Hyperplanes
 - dot product 
@@ -25,22 +25,13 @@ Gradient Descent requires a cost function(there are many types of cost functions
 #### So, the whole point of GD is to minimize the cost function.
 - Gradient descent computes the direction of steepest descent.
 - Accuracy is a bad loss function in gradient descent, becasue gradient descent makes the gradient zero almost everywhere.
-
-
-***
-
-## CycleGANs
-## Definitions
-### VU material Week 10: 
-- [VU video1](https://www.youtube.com/watch?v=6N4zIx0ATME&feature=youtu.be)
-
-### Other videos:
-- [video: Generative Adversarial Networks (GANs) - How and Why They Work](https://youtu.be/ZRgwcMqxhPw)
-- [video: Turning Fortnite into PUBG with Deep Learning (CycleGANs)](https://youtu.be/xkLtgwWxrec)
+- no escape local minima
 
 ***
 
+# 4 Methodology 2: Data cleaning, Principal Component Analysis, Eigenfaces (MLVU2019)
 ## Principal Component Analysis
+![](http://www.nlpca.org/fig_pca_principal_component_analysis.png)
 ### Definitions
 Principal Component Analysis, or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
 - PCA provides a normalisation that accounts for correlations between
@@ -56,6 +47,21 @@ highest.
 ### Other videos:
 - [article: step-by-step-explanation-of-principal-component-analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
 - [video: Principal Component Analysis (PCA)](https://www.youtube.com/watch?v=g-Hb26agBFg)
+
+
+
+
+
+
+
+## CycleGANs
+## Definitions
+### VU material Week 10: 
+- [VU video1](https://www.youtube.com/watch?v=6N4zIx0ATME&feature=youtu.be)
+
+### Other videos:
+- [video: Generative Adversarial Networks (GANs) - How and Why They Work](https://youtu.be/ZRgwcMqxhPw)
+- [video: Turning Fortnite into PUBG with Deep Learning (CycleGANs)](https://youtu.be/xkLtgwWxrec)
 
 ***
 
