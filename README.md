@@ -58,8 +58,9 @@ highest.
 - Backpropagation is about understanding how changing the weights and biases in a network changes the cost function. 
 - The goal of backpropagation is to compute the partial derivatives ∂C/∂w and ∂C/∂b of the cost function C with respect to any weight w or bias b in the network.
 - Backpropagation is based around four fundamental equations. Together, those equations give us a way of computing both the error δl and the gradient of the cost function. 
-![http://neuralnetworksanddeeplearning.com/chap2.html](http://neuralnetworksanddeeplearning.com/images/tikz21.png)
 
+![http://neuralnetworksanddeeplearning.com/chap2.html](http://neuralnetworksanddeeplearning.com/images/tikz21.png)
+- [source](http://neuralnetworksanddeeplearning.com/chap2.html)
 
 
 ***
