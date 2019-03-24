@@ -62,7 +62,10 @@ highest.
 ![http://neuralnetworksanddeeplearning.com/chap2.html](http://neuralnetworksanddeeplearning.com/images/tikz21.png)
 - [source](http://neuralnetworksanddeeplearning.com/chap2.html)
 
-
+## SVM Soft-margin vs Hard margin
+![](https://qph.fs.quoracdn.net/main-qimg-0a3e8d1f008e7e86c10efe9936ead943)
+- hard margin works only with fully linear peparable data 
+- soft margin extends hard margin allowing erorrs to be made fitting the model
 ***
 
 ## CycleGANs
