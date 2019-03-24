@@ -66,6 +66,11 @@ highest.
 ![](https://qph.fs.quoracdn.net/main-qimg-0a3e8d1f008e7e86c10efe9936ead943)
 - hard margin works only with fully linear peparable data 
 - soft margin extends hard margin allowing erorrs to be made fitting the model
+### Kernel svm
+![](http://www.eric-kim.net/eric-kim-net/posts/1/imgs/data_2d_to_3d.png)
+- introduce another axe-z and find a function that allow us to extract common z-axe value for  each group of points.
+    - Pros: Provides a principled way of solving the multiclass problem.
+    - Cons: Multiclass extensions tend to be much more complicated than the original binary 
 ***
 
 ## CycleGANs
