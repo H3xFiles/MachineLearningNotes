@@ -29,7 +29,7 @@ Gradient Descent requires a cost function(there are many types of cost functions
 ***
 
 # [4 Methodology 2: Data cleaning, Principal Component Analysis, Eigenfaces (MLVU2019)](https://www.youtube.com/watch?v=H4c4qpHdGq8)
-## Principal Component Analysis
+## [Principal Component Analysis](http://www.nlpca.org/pca_principal_component_analysis.html)
 ![](http://www.nlpca.org/fig_pca_principal_component_analysis.png)
 ### Definitions
 Principal Component Analysis, or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
@@ -43,17 +43,17 @@ highest.
 - [article: step-by-step-explanation-of-principal-component-analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
 - [video: Principal Component Analysis (PCA)](https://www.youtube.com/watch?v=g-Hb26agBFg)
 
-## Eigenfaces
+## [Eigenfaces](http://lpsa.swarthmore.edu/MtrxVibe/EigMat/MatrixEigen.html)
 
 
 
 # [5 Probability 1: Entropy, (Naive) Bayes, Cross-entropy loss (MLVU2019)](https://www.youtube.com/watch?v=IMwiu64wgCU)
-## Entropy 
+## [Entropy](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/#entropy)
 - [A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
 
 
 # [6 Linear Models 2: Neural Networks, Backpropagation, SVMs and Kernel methods](https://www.youtube.com/watch?v=g2lziWxf_9Q)
-## backpropagation
+## [backpropagation](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwjK4-vXoJjhAhVMJ1AKHbCJDU0QwqsBMAJ6BAgJEAc&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFaHHWdsIYQg&usg=AOvVaw0cLk7Tqe50zqUnDEcbYnVl)
 - another name for gradiant discent
 - Backpropagation is about understanding how changing the weights and biases in a network changes the cost function. 
 - The goal of backpropagation is to compute the partial derivatives ∂C/∂w and ∂C/∂b of the cost function C with respect to any weight w or bias b in the network.
