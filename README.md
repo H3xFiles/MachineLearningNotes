@@ -74,7 +74,16 @@ highest.
 ***
 
 # [9 Deep Learning 2: GANs and VAEs (MLVU2019)](https://www.youtube.com/watch?v=6N4zIx0ATME)
+## generative adversarial networks
+The original GAN was created by Ian Goodfellow, who described the GAN architecture in a [paper published in mid-2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf).
+The discriminator tries to determine whether information is real or fake. The other neural network, called a generator, tries to create data that the discriminator thinks is real.
+## Vanilla GAN
+The original GAN is called a vanilla GAN.
+![](https://cdn-images-1.medium.com/max/1600/1*--AtNcFUNb_ts_uihuSJ2g.png)
+![](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/06/11000153/g1.jpg)
+## Conditional GAN
 ## CycleGANs
+## Style GAN
 
 
 ### Other videos:
