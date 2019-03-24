@@ -47,13 +47,22 @@ highest.
 
 
 
-# [5 Probability 1: Entropy, (Naive) Bayes, Cross-entropy loss (MLVU2019)
-](https://www.youtube.com/watch?v=IMwiu64wgCU)
+# [5 Probability 1: Entropy, (Naive) Bayes, Cross-entropy loss (MLVU2019)](https://www.youtube.com/watch?v=IMwiu64wgCU)
 ## Entropy 
 - [A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
 
 
+# [6 Linear Models 2: Neural Networks, Backpropagation, SVMs and Kernel methods](https://www.youtube.com/watch?v=g2lziWxf_9Q)
+## backpropagation
+- another name for gradiant discent
+- Backpropagation is about understanding how changing the weights and biases in a network changes the cost function. 
+- The goal of backpropagation is to compute the partial derivatives ∂C/∂w and ∂C/∂b of the cost function C with respect to any weight w or bias b in the network.
+- Backpropagation is based around four fundamental equations. Together, those equations give us a way of computing both the error δl and the gradient of the cost function. 
+![http://neuralnetworksanddeeplearning.com/chap2.html](http://neuralnetworksanddeeplearning.com/images/tikz21.png)
 
+
+
+***
 
 ## CycleGANs
 ## Definitions
