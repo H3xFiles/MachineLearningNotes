@@ -62,7 +62,7 @@ highest.
 ![http://neuralnetworksanddeeplearning.com/chap2.html](http://neuralnetworksanddeeplearning.com/images/tikz21.png)
 - [source](http://neuralnetworksanddeeplearning.com/chap2.html)
 
-## SVM Soft-margin vs Hard margin
+## [SVM Soft-margin vs Hard margin](http://people.csail.mit.edu/dsontag/courses/ml14/slides/lecture2.pdf)
 ![](https://qph.fs.quoracdn.net/main-qimg-0a3e8d1f008e7e86c10efe9936ead943)
 - hard margin works only with fully linear peparable data 
 - soft margin extends hard margin allowing erorrs to be made fitting the model
@@ -73,14 +73,16 @@ highest.
     - Cons: Multiclass extensions tend to be much more complicated than the original binary 
 ***
 
+# [9 Deep Learning 2: GANs and VAEs (MLVU2019)](https://www.youtube.com/watch?v=6N4zIx0ATME)
 ## CycleGANs
-## Definitions
-### VU material Week 10: 
-- [VU video1](https://www.youtube.com/watch?v=6N4zIx0ATME&feature=youtu.be)
+
 
 ### Other videos:
 - [video: Generative Adversarial Networks (GANs) - How and Why They Work](https://youtu.be/ZRgwcMqxhPw)
 - [video: Turning Fortnite into PUBG with Deep Learning (CycleGANs)](https://youtu.be/xkLtgwWxrec)
+
+
+
 
 ***
 
