@@ -102,6 +102,12 @@ The original GAN is called a vanilla GAN.
 
 
 ***
+## [Which statement is acceptable from a Bayesian perspective, but not from a frequentist perspective?](https://www.researchgate.net/post/What_is_the_difference_between_frequentist_and_bayesian_probability)
+
+
+## Onehot encoding
+We use one hot encoder to perform “binarization” of the category and include it as a feature to train the model.
+![](https://cdn-images-1.medium.com/max/2400/1*Ac4z1rWWuU0TzxJRUM62WA.jpeg)
 
 ## Generative VS Discriminative Models
 - [article: “is this animal a lion or an elephant?”](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3)
