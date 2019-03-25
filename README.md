@@ -103,7 +103,10 @@ The original GAN is called a vanilla GAN.
 
 ***
 ## [Which statement is acceptable from a Bayesian perspective, but not from a frequentist perspective?](https://www.researchgate.net/post/What_is_the_difference_between_frequentist_and_bayesian_probability)
-
+The frequentists interpretation needs some explanation. Frequentists can assign probabilities only to events/obervations that come from repeatable experiments. With "probability of an event" they mean the relative frequency of the event occuring in an infinitively long series of repetitions. For instance, when a frequentists says that the probability for "heads" in a coin toss is 0.5 (50%) he means that in infinititively many such coin tosses, 50% of the coins will show "head".
+The difference may become clear when bot (Bayesian frequentist) are asked for the probability that this particular coin I just tossed shows "head".
+The Bayesian will say: "Since I have no further information than that there are two possible outcomes, I have no reason to prefer any of the sides, so I will assign an equal probability to both of them (what will be 0.5 for "heads" and also 0.5 for "tails").
+- [Frequentist vs. Bayesian Inference COURSERA](https://www.coursera.org/lecture/bayesian/frequentist-vs-bayesian-inference-q5CTh)
 
 ## Onehot encoding
 We use one hot encoder to perform “binarization” of the category and include it as a feature to train the model.
