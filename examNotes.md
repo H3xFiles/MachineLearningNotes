@@ -36,3 +36,6 @@
 ## <img src="https://raw.githubusercontent.com/H3xFiles/MachineLearningNotes/master/icon_right_rounded-512.png" alt="topic" width="25" height="25"> gradient discent in reinforcment learning
 ## <img src="https://raw.githubusercontent.com/H3xFiles/MachineLearningNotes/master/icon_right_rounded-512.png" alt="topic" width="25" height="25">  pruning
 ## <img src="https://raw.githubusercontent.com/H3xFiles/MachineLearningNotes/master/icon_right_rounded-512.png" alt="topic" width="25" height="25">  derivation EM algorithm
+## <img src="https://raw.githubusercontent.com/H3xFiles/MachineLearningNotes/master/icon_right_rounded-512.png" alt="topic" width="25" height="25">  Never judge a model from training data
+   #### withhold some data
+        You need to split the data set 
