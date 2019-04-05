@@ -3,6 +3,9 @@
 - [Evaluating Hyperparameter Optimization Strategies](https://sigopt.com/blog/evaluating-hyperparameter-optimization-strategies/)
 - [Understanding Hyperparameters and its Optimisation techniques](https://towardsdatascience.com/understanding-hyperparameters-and-its-optimisation-techniques-f0debba07568)
 
+## Simulate annelling:
+- [Simulated Annealing for beginners](http://www.theprojectspot.com/tutorial-post/simulated-annealing-algorithm-for-beginners/6)
+
 ## Neural networks ANN
 #### Convolutional Neural Networks
 - [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/classification/)
