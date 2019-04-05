@@ -1,5 +1,5 @@
 
-##  <img src="https://raw.githubusercontent.com/H3xFiles/MachineLearningNotes/master/icon_right_rounded-512.png" alt="topic" width="50" height="50"> off learning vs reinforcment learning
+##  <img src="https://raw.githubusercontent.com/H3xFiles/MachineLearningNotes/master/icon_right_rounded-512.png" alt="topic" width="25" height="25"> off learning vs reinforcment learning
 ## never judge performance from trainign data
 ## Why square the sum of Sum(yi-ti)^2
 ## Classifier and test set
